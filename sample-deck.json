@@ -6,6 +6,9 @@
     "styles": [
         "assets/css/default.css"
     ],
+    "js": [
+        "assets/js/nojs.js"
+    ],
     "files": [
         "slides/slide1.html",
         "slides/slide2.html",
